@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TP6-DAR2026.iml" filepath="$PROJECT_DIR$/.idea/TP6-DAR2026.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tp6-client/tp6-client.iml" filepath="$PROJECT_DIR$/tp6-client/tp6-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tp6-serveur/tp6-serveur.iml" filepath="$PROJECT_DIR$/tp6-serveur/tp6-serveur.iml" />
+    </modules>
+  </component>
+</project>
